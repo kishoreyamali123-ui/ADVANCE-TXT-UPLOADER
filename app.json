@@ -14,8 +14,7 @@
         },
         "API_HASH":{
             "description":"Get your telegram API HASH from https://my.telegram.org",
-		    "value":"70dd0ada2d3d33415f106af8fe3644f9
-"
+		    "value":"70dd0ada2d3d33415f106af8fe3644f9"
         },
         "BOT_TOKEN":{
             "description":"Get from BotFather",
